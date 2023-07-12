@@ -1,0 +1,50 @@
+.gallery img{
+    width: 100%;
+}
+
+#menu{
+    width: 100px;
+    height:40px;
+    background-color:blue;
+    padding-top: 14px;
+    padding-left: 100%px;
+    padding-right: 100%;
+}
+
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+#menu a:hover{
+    color: #000000;
+}
+
+h2{
+    color:cadetblue;
+    font-family: fantasy;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
